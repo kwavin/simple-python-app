@@ -1,0 +1,12 @@
+# requirements.txt - Python dependencies
+
+# Testing framework (usually included with Python, but good to be explicit)
+# pytest>=7.0.0
+
+# Code quality tools
+flake8>=5.0.0
+black>=22.0.0
+
+# Optional: For more advanced testing
+# pytest-cov>=4.0.0  # Coverage reporting
+# requests>=2.28.0   # HTTP library for API tests
